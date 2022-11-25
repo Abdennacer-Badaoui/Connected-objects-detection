@@ -1,0 +1,1 @@
+sudo dumpcap -i lo -b duration:3600 -a duration:24*3600 -w "/home/pi/file_capture/mytrace.pcap" -q

@@ -1,0 +1,6 @@
+#ignore venv
+Pole_Projet_IOT_venv/
+DB_trash/
+__pycache__/
+*/__pycache__/
+.db_test.csv
