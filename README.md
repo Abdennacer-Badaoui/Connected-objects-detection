@@ -81,7 +81,4 @@ While the project successfully recognized ZigBee-connected devices, there are ar
 
 Supervised by Jocelyn Fiorina with the collaboration of L'Exocube.
 
-## Acknowledgments
-
-This project was part of the Security and Defense module at CentraleSupélec, conducted in June 2022.
 
