@@ -77,8 +77,8 @@ While the project successfully recognized ZigBee-connected devices, there are ar
 ### Installation
 
 * Install the required Python libraries using the following command:
-  
-    pip install -r requirements.txt 
+
+`pip install -r requirements.txt`
 
 ### Directory Structure
 
@@ -107,12 +107,3 @@ The codebase is organized into several folders:
 
 Supervised by Jocelyn Fiorina with the collaboration of L'Exocube.
 
-## Contributors
-
-- Abdennacer Badaoui
-- Louis Fouché
-- Emma Guetta
-- Reda Mouqed
-- Rémy Taha
-
-Supervised by Jocelyn Fiorina with the collaboration of L'Exocube.
